@@ -4,11 +4,8 @@ Danil
 Android developer
 -----------------
 
-<a href="https://www.github.com/carrotteddy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/carrotteddy?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
-
 ### __About Me__
-I'm beginner android developer, now i learn android developing and i want to find a job in this field in the future
+_
 
 ### Skills
 
